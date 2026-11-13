@@ -9,3 +9,4 @@ void sort(int *a, int n) {
 }
 // comment 1
 // comment 2
+// comment 1
